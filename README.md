@@ -8,13 +8,13 @@ This project was created as a practice project to improve backend development sk
 
 ## 📌 Features
 
-✅ Display all clients from database
-✅ Insert new client
-✅ Edit existing client
-✅ Delete client
-✅ Clean table UI using Bootstrap
-✅ MySQL database connection using mysqli
-✅ Organized CRUD logic
+- ✅ Display all clients from database
+- ✅ Insert new client
+- ✅ Edit existing client
+- ✅ Delete client
+- ✅ Clean table UI using Bootstrap
+- ✅ MySQL database connection using mysqli
+- ✅ Organized CRUD logic
 
 ---
 
