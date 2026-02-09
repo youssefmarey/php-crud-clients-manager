@@ -61,10 +61,10 @@ This project was created as a practice project to improve backend development sk
 
 ## ⚙️ How To Run
 
-1. Import database into phpMyAdmin
-2. Update database connection in config file
-3. Run project using local server (XAMPP / Laragon)
-4. Open project in browser
+- 1️⃣ Import database into phpMyAdmin
+- 2️⃣ Update database connection in config file
+- 3️⃣ Run project using local server (XAMPP / Laragon)
+- 4️⃣ Open project in browser
 
 > ⚠️ Make sure Apache and MySQL services are running before starting the project.
 
