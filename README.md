@@ -66,6 +66,8 @@ This project was created as a practice project to improve backend development sk
 3. Run project using local server (XAMPP / Laragon)
 4. Open project in browser
 
+> ⚠️ Make sure Apache and MySQL services are running before starting the project.
+
 ---
 
 ## 💪 Learning Note
